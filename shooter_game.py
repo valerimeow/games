@@ -1,7 +1,7 @@
 #Создай собственный Шутер!
 from pygame import*
 from random import randint
-
+print('всем хэллоу')
 mixer.init()
 mixer.music.load('space.ogg')
 mixer.music.play()
